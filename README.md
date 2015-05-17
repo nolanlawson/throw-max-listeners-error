@@ -1,5 +1,5 @@
 throw-max-listeners-error
------
+========
 
 Throw an error if any EventEmitter exceeds its maximum number of listeners for any event. Useful for testing memory leaks.
 
