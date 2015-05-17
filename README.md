@@ -9,7 +9,7 @@ Usage
     $ npm install throw-max-listeners-error --save
 
 ```js
-require('throw-max-listeners-error')
+require('throw-max-listeners-error');
 ```
 
 Description
@@ -18,7 +18,8 @@ Description
 Have you ever seen this error in a Node module before?
 
 
-    (node) warning: possible EventEmitter memory leak detected. 11 listeners added. Use emitter.setMaxListeners() to increase limit.
+    (node) warning: possible EventEmitter memory leak detected.
+      11 listeners added. Use emitter.setMaxListeners() to increase limit.
     
 Okay, that's pretty cool! It's nice to get a warning when we've got too many listeners.
 
