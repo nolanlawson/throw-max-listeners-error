@@ -1,6 +1,6 @@
 {
   "name": "throw-max-listeners-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Throw an error when the max number of EventEmitter listeners is exceeded",
   "main": "index.js",
   "repository": {
