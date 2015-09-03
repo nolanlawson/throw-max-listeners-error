@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/nolanlawson/throw-max-listeners-error/issues"
   },
-  "homepage": "https://github.com/nolanlawson/throw-max-listeners-error"
+  "homepage": "https://github.com/nolanlawson/throw-max-listeners-error",
+  "scripts": {
+    "test": "node test.js"
+  }
 }
