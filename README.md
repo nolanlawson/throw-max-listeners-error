@@ -1,6 +1,8 @@
 throw-max-listeners-error
 ========
 
+[![Build Status](https://travis-ci.org/nolanlawson/throw-max-listeners-error.svg)](https://travis-ci.org/nolanlawson/throw-max-listeners-error)
+
 Throw an error if any [EventEmitter](https://nodejs.org/api/events.html) exceeds its maximum number of listeners for any event. Useful for testing memory leaks.
 
 Usage
